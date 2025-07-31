@@ -4,10 +4,9 @@ In 2021, I was hired as a Project Manager to oversee and coordinate efforts betw
 
 Due to the complexity and scale of the Houston based company’s core business systems, my role focused on:
 
-    Monitoring and managing issue tracking using Atlassian Jira, while promoting SCRUM-based development practices.
-    Conducting a 6-month analysis phase to evaluate team workflows and propose a comprehensive system revamp strategy.
-
-    Working with decision-makers to address chronic issues with inaccurate delivery estimates and misaligned development priorities. A strategic review of business goals and development resource allocation was required to optimize investment and output.
+- Monitoring and managing issue tracking using Atlassian Jira, while promoting SCRUM-based development practices.
+- Conducting a 6-month analysis phase to evaluate team workflows and propose a comprehensive system revamp strategy.
+- Working with decision-makers to address chronic issues with inaccurate delivery estimates and misaligned development priorities. A strategic review of business goals and development resource allocation was required to optimize investment and output.
 
 After one year, I successfully delivered a set of advanced Atlassian Jira planning solutions, which included:
 
