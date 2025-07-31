@@ -1,4 +1,5 @@
-## Professional Experience – Software Project Management & Agile Process Optimization
+## Professional Experience
+## Software Project Management & Agile Process Optimization
 
 In 2021, I was hired as a Project Manager to oversee and coordinate efforts between a local software development team in Venezuela and an international team based in India, both supporting the source code of a Houston-based B2B eCommerce and EDI procurement automation company.
 
