@@ -11,9 +11,9 @@ Due to the complexity and scale of the Houston based company’s core business s
 
 After a year, I successfully delivered Atlassian Jira Advanced Roadmap planning solution, which included:
 
-    Cross-functional dependency tracking
+Cross-functional dependency tracking
 
-    Capacity allocation modeling
+Capacity allocation modeling
 
     Simulation-based planning scenarios
 
